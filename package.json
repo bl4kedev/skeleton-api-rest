@@ -14,7 +14,7 @@
     "ExpressJS",
     "MongoDB"
   ],
-  "author": "Manuel berganza | @blakedev",
+  "author": "Manuel berganza | @blakedev_",
   "license": "ISC",
   "dependencies": {
     "bcryptjs": "^2.4.3",
