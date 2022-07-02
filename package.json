@@ -2,11 +2,11 @@
   "name": "skeleton-api-rest",
   "version": "0.1.0",
   "description": "",
-  "main": "index.js",
+  "main": "app.js",
   "type": "module",
   "scripts": {
-    "start": "node index.js",
-    "server": "nodemon index.js"
+    "start": "node app.js",
+    "server": "nodemon app.js"
   },
   "keywords": [],
   "author": "Manuel berganza | @blakedev",
