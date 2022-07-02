@@ -9,3 +9,5 @@ export const capturarErrores = (req = request, res = response, next) => {
 
     next();
 }
+
+// Muestra los errores de validacion capturados por express-validator 

@@ -15,7 +15,7 @@ app.use(cors());
 app.use(express.json());
 app.use(express.static('public'));
 
-// Definicion de ROUTES
+// Definir las Rutas
 app.use('/api', exampleRoutes);
 
 

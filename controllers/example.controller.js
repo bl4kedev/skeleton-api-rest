@@ -1,4 +1,4 @@
-import { request, response } from "express";
+import { request, response } from "express"; // Importacion para tener tipado dentro de los controladores
 
 // --- GET ---
 export const getExample = (req = request, res = response) => {
